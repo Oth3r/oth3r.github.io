@@ -1,4 +1,4 @@
-<img src="https://github.com/Oth3r/oth3r.github.io/blob/main/mod_data/sit!/media/banner.png?raw=true" width="50%" style="margin-bottom: 10px; max-width:400px;">
+<img src="https://github.com/Oth3r/oth3r.github.io/blob/main/mod_data/Sit!/media/banner.png?raw=true" width="50%" style="margin-bottom: 10px; max-width:400px;">
 
 [![github](https://img.shields.io/github/issues/oth3r/Sit?logo=github?label=Issues)](https://github.com/Oth3r/Sit/releases) [![Crowdin](https://badges.crowdin.net/oth3r-sit/localized.svg)](https://crowdin.com/project/oth3r-sit)  [![discord](https://dcbadge.vercel.app/api/server/Mec6yNQ9B7?style=flat)](https://discord.gg/Mec6yNQ9B7) 
 
