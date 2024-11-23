@@ -11,14 +11,15 @@ Sit on **stairs**, **slabs**, **carpets** by default, and sit on everything else
 \
 You can also customize **hand restrictions** to stop accidentally sitting down!
 \
-The mod also has full **Geyser** support! Enjoy sitting with everyone, weather they are on Bedrock or Java!
+The mod also has full **Geyser** support! Enjoy sitting with everyone, whether they are on Bedrock or Java!
 
 ### Where to install?
 **Sit!** works on the server, without the players needing to install the mod *(singleplayer included!)*. 
 \
 If Sit! clients join a Sit! server they can use their own hand settings to sit.
 
-## Help localize Sit! on [Crowdin](https://crowdin.com/project/oth3r-sit)!
+### Help localize Sit! on [Crowdin](https://crowdin.com/project/oth3r-sit)!
+Sit! is currently in English, Traditional Chinese, Italian, Brazilian Portuguese, and Turkish! Help expand this list via Crowdin so reach more people!
 
 ## Check out my other Projects!
 
