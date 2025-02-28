@@ -13,9 +13,9 @@ With DirectionHUD, you can save coordinates, track other players, see death loca
 Download DirectionHUD today!
 
 <a href="https://modrinth.com/mod/directionhud">
-    <img alt="Fabric Download" src="https://img.shields.io/modrinth/dt/H8WCXRtb?style=flat&logo=modrinth&label=Fabric%20Download&cacheSeconds=1600&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fdirectionhud%2Fversions"/>
+    <img alt="Fabric Download" src="https://img.shields.io/modrinth/dt/H8WCXRtb?style=flat&amp;logo=modrinth&amp;label=Fabric%20Download&amp;cacheSeconds=1600"/>
 </a>
 <a href="https://modrinth.com/plugin/directionhud-plugin">
-    <img href="https://modrinth.com/plugin/directionhud-plugin" alt="Spigot Download" src="https://img.shields.io/modrinth/dt/41anAf7M?style=flat&logo=spigotmc&label=Spigot%20Download&color=%23ED8106&cacheSeconds=1600&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fdirectionhud%2Fversions">
+    <img href="https://modrinth.com/plugin/directionhud-plugin" alt="Spigot Download" src="https://img.shields.io/modrinth/dt/41anAf7M?style=flat&amp;logo=spigotmc&amp;label=Spigot%20Download&amp;cacheSeconds=1600"/>
 </a>
 
