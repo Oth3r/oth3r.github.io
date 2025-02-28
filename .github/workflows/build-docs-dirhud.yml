@@ -1,4 +1,4 @@
-name: Build documentation
+name: Build DirectionHUD Documentation
 
 on:
   push:
